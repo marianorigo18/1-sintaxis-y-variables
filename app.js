@@ -81,7 +81,7 @@ temas[6] // Alert;
 /*
 temas[7] // 
 
-    NaN: Indica la ausencia de un valor numerico
+    NaN: Indica la ausencia de un valor numerico 
 */
 
 /*
